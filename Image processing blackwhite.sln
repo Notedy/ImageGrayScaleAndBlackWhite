@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image processing blackwhite", "Image processing blackwhite\Image processing blackwhite.csproj", "{13C9508B-D132-4025-827E-5D456949023A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13C9508B-D132-4025-827E-5D456949023A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C9508B-D132-4025-827E-5D456949023A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C9508B-D132-4025-827E-5D456949023A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C9508B-D132-4025-827E-5D456949023A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CD43732-7CDA-409D-90FC-5D0FD11970E4}
+	EndGlobalSection
+EndGlobal
